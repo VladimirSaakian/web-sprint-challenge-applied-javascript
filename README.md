@@ -60,7 +60,16 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+allows a language JavaScript to change, structure, and style your website.
+
 2. What is an event?
+changes in the DOM
+
 3. What is an event listener?
+wait for an event to occur such as click, mouseover, mouseout, etc
+
 4. Why would we convert a NodeList into an Array?
+not enough capabilities such as .map .filter
+
 5. What is a component?
+independent and reusable code
